@@ -63,7 +63,7 @@ const promptUser = () => {
   ])
   .then((answers) => {
     const data = generateMarkdown(answers);
-    fs.writeFile('README.md', data, (err) => {
+    fs.writeFile('NewReadMe.md', data, (err) => {
         if (err) {return console.log(err);}
         console.log("Success! Your README.md file has been generated")
     })
