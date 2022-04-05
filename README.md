@@ -9,7 +9,7 @@
   ### [Questions](#questions) 
   
   ## Installation
-  ##### Open the Develop folder in VS Code and run the index.js file in the integrated terminal. This will run prompted questions. Once the user is done answering, the application will generate the New ReadMe file with the user's answers.
+  ##### Open the code in VS Code and type 'npm i' in the terminal. Then run the index.js file in the integrated terminal by typing 'node index' and hitting enter. This will run prompted questions. Once the user is done answering, the application will generate the New ReadMe file with the user's answers.
   
   ## Usage
   ##### This application is best used and run in VS code via the integrated terminal.
